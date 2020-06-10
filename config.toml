@@ -1,4 +1,4 @@
-baseurl = "https://example.com/"
+baseurl = "https://johannescopeland.com/"
 title = "Johannes Copeland Hasche"
 theme = "pulp"
 canonifyurls = true
@@ -8,7 +8,7 @@ hasCJKLanguage = true
 # googleAnalytics = "{your tracking code}"
 
 [markup.goldmark.renderer]
-    unsafe = true # Allow user HTML tags
+    unsafe = false # Allow user HTML tags
 
 [params]
     author = "Johannes Copeland Hasche"
