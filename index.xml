@@ -9,5 +9,16 @@
 	<atom:link href="https://johannescopeland.com/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Privacy policy</title>
+      <link>https://johannescopeland.com/privacy/</link>
+      <pubDate>Sat, 13 Jun 2020 17:18:31 +0200</pubDate>
+      
+      <guid>https://johannescopeland.com/privacy/</guid>
+      <description>Personal data No personally identifiable information (as defined by the GDPR) is collected on this website.
+Links This website contains links to other websites. Those websites might collect data, and I am not liable for their use or collection of data.
+For any further questions or requests, please send me an e-mail.</description>
+    </item>
+    
   </channel>
 </rss>
