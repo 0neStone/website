@@ -30,12 +30,12 @@ hasCJKLanguage = true
     section = ["JSON", "HTML"]
     taxonomy = ["JSON", "HTML"]
 
-[[menu.main]]
-    identifier = "blog"
-    # name = "Blog" #If display text link, cancel comment out
-    pre = "<i class='fa fa-book-open fa-lg'></i>" #Choose your favorite font from Font Awesome
-    url = "/blog/"
-    weight = 10
+# [[menu.main]]
+#     identifier = "blog"
+#     # name = "Blog" #If display text link, cancel comment out
+#     pre = "<i class='fa fa-book-open fa-lg'></i>" #Choose your favorite font from Font Awesome
+#     url = "/blog/"
+#     weight = 10
 
 [[menu.main]]
     identifier = "instagram"
@@ -52,8 +52,15 @@ hasCJKLanguage = true
     weight = 30
 
 [[menu.main]]
+    identifier = "linkedin"
+    # name = "LinkedIn"
+    pre = "<i class='fab fa-linkedin fa-lg'></i>"
+    url = "https://www.linkedin.com/in/johannes-copelandhasche/"
+    weight = 40
+
+[[menu.main]]
     identifier = "email"
     # name = "Email"
     pre = "<i class='fa fa-envelope fa-lg'></i>"
     url = "mailto:contact@johannescopeland.com"
-    weight = 40
+    weight = 50
