@@ -1,7 +1,0 @@
-[submodule "themes/pulp"]
-	path = themes/pulp
-	url = https://github.com/johanncopeland/hugo-pulp.git
-[submodule "public"]
-	path = public
-	url = https://github.com/johanncopeland/website.git
-	branch = master
